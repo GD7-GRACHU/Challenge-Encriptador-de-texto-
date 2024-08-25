@@ -49,10 +49,22 @@ body {
 .encriptador__enlaces__link{
     width: 328px;
     background-color: #0A3871;
+    padding: 19.36px 0;
+    border-radius: 24px;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
 
 }
 
 .encriptador__enlaces__link2{
     width: 328px;
-    background-color: #D8DFE8;
+    background-color: #D8DFE8;ç
+    padding: 19.6px 0;
+    border-radius: 24px;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    
+
 }
