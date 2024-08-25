@@ -54,17 +54,11 @@ body {
     font-family: "Inter", sans-serif;
     font-size: 16px;
     font-weight: 400;
+    text-decoration: none;
 
 }
 
 .encriptador__enlaces__link2{
-    width: 328px;
-    background-color: #D8DFE8;ç
-    padding: 19.6px 0;
-    border-radius: 24px;
-    font-family: "Inter", sans-serif;
-    font-size: 16px;
-    font-weight: 400;
+    background-color: #D8DFE8;
     
-
 }
