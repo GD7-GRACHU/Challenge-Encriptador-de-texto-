@@ -41,5 +41,7 @@ body {
 }
 
 .encriptador__enlaces{
+    display: flex;
+    justify-content: space-between;
     
 }
