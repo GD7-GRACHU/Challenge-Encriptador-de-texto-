@@ -47,5 +47,12 @@ body {
 }
 
 .encriptador__enlaces__link{
-    
+    width: 328px;
+    background-color: #0A3871;
+
+}
+
+.encriptador__enlaces__link2{
+    width: 328px;
+    background-color: #D8DFE8;
 }
