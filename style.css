@@ -25,7 +25,7 @@ body {
     width: 577px;
     display: flex;
     flex-direction: column;
-    gap: 24px;
+    gap: 16px;
 
 }
 
@@ -48,6 +48,11 @@ body {
     justify-content: space-between;
 
 }
+.instruccion__enlace__subtitulo{
+    font-family: inter sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
 
 .encriptador__enlaces__link{
     width: 328px;
@@ -61,6 +66,11 @@ body {
     color: #FFFFFF;
 
 }
+
+.encriptador__enlaces__link: :hover{
+    background-color: #272727
+}
+
 
 .encriptador__enlaces__link2{
     background-color: #D8DFE8;
